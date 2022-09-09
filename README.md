@@ -102,7 +102,7 @@
 
 
 <p align="left">
-    <a href="[https://www.linkedin.com/in/arjun-singh-366476194/](https://www.linkedin.com/in/sk-ismile-8a57b7225/](https://www.linkedin.com/in/sk-ismile-8a57b7225/)">
+    <a href="www.linkedin.com/in/sk-ismile-8a57b7225">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
     </a>
     <a href="https://twitter.com/ArjunBhakuni3">
