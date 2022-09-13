@@ -14,9 +14,7 @@
     <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
-<h3>
-    <i>- I Have a Youtube Channel <a href = 'https://www.youtube.com/channel/UCDqe5Z2RFTudpDgJ_nizZ_Q'>Link</a> </i>
-</h3>
+
 <br>
 
 
