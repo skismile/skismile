@@ -103,8 +103,10 @@
     <a href="https://www.linkedin.com/in/sk-ismile-8a57b7225/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/m-sehrawat" />
     </a>
-
-    <a href="https://skismile.github.io">
+<a href="https://skismile.github.io">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="sk.ismile portfolio" />
+    </a>
+    <a href="#">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="sk.ismile portfolio" />
     </a>
     <a title="sk.ismile75@gmail.com" href="sk.ismile75@gmail.com">
