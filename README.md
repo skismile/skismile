@@ -11,9 +11,12 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **sk.ismile75@gmail.com**
+- 📫 How to reach me my mail id --> **sk.ismile75@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RCH9eNBEshrehUYbYoNF6moOL-hOPN_r/view?usp=sharing](https://drive.google.com/file/d/1RCH9eNBEshrehUYbYoNF6moOL-hOPN_r/view?usp=sharing)
+
+
+- ⛪ I'm from  Midnapore,West Bengal 721101.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
