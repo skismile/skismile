@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RCH9eNBEshrehUYbYoNF6moOL-hOPN_r/view?usp=sharing](https://drive.google.com/file/d/1RCH9eNBEshrehUYbYoNF6moOL-hOPN_r/view?usp=sharing)
 
 
-- ⛪ I'm from  Midnapore,West Bengal 721101.
+- ⛪ I'm from  Midnapore, West Bengal, India, 721101.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
