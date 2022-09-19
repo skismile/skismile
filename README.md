@@ -1,3 +1,4 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sk Ismile</h1>
 <h3 align="center">A passionate Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
 
@@ -5,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skismile" alt="skismile" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://skismile.github.io](https://skismile.github.io)
+- 👨‍💻 My Portfolio [https://skismile.github.io](https://skismile.github.io)
 
 - 💬 Ask me about **react**
 
