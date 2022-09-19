@@ -106,9 +106,7 @@
 <a href="https://skismile.github.io">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="sk.ismile portfolio" />
     </a>
-    <a href="#">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="sk.ismile portfolio" />
-    </a>
+   
     <a title="sk.ismile75@gmail.com" href="sk.ismile75@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sk.ismile75@gmail.com" />
     </a>
