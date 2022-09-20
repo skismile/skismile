@@ -30,5 +30,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skismile&show_icons=true&locale=en" alt="skismile" /></p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=skismile&theme=github_dark)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skismile&" alt="skismile" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skismile" alt="skismile" /></a> </p>
+
+
+
+
+
+
+
+
