@@ -14,7 +14,8 @@
 
 - 📫 How to reach me ?  my mail id --> **sk.ismile75@gmail.com**
 
-- 📄 Know about my experiences Here is my Resume--> [SK_ISMILE_RESUME (2).pdf](https://github.com/skismile/skismile/files/9626619/SK_ISMILE_RESUME.2.pdf)
+- 📄 Know about my experiences Here is my Resume--> [SK_ISMILE_RESUME.pdf](https://github.com/skismile/skismile/files/9626651/SK_ISMILE_RESUME.pdf)
+
 
 
 - ⛪ I'm from  Midnapore, West Bengal, India, 721101.
