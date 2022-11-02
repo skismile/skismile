@@ -1,4 +1,5 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4D16AQERVLcGZEMiSg/profile-displaybackgroundimage-shrink_350_1400/0/1663340088352?e=1669248000&v=beta&t=3siC9jHnpHXwtTHtzk5CPwJ8XVBPARObntlYxI-0Ug4)](https://skismile.io)
+<img width="100%" height="60%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif"/>
+
 
 <h1 align="center">Hi 👋, I'm Sk Ismile</h1>
 <h3 align="center">A passionate Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</h3>
