@@ -11,7 +11,7 @@
 
 - 👨‍💻 My Portfolio [https://skismile.github.io](https://skismile.github.io)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react,java script,html,css,node js,next js,typescript,mongo db**
 
 - 📫 How to reach me ?  my mail id --> **sk.ismile75@gmail.com**
 
