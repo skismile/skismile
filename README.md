@@ -15,7 +15,8 @@
 
 - 📫 How to reach me ?  my mail id --> **sk.ismile75@gmail.com**
 
-- 📄 Know about my experiences Here is my Resume-->[SK_ISMILE_RESUME.pdf](https://github.com/skismile/skismile/files/10013989/SK_ISMILE_RESUME.pdf)
+- 📄 Know about my experiences Here is my Resume-->
+[SK_ISMILE_RESUME.pdf](https://github.com/skismile/skismile/files/10132682/SK_ISMILE_RESUME.pdf)
 
 
 
